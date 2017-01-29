@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Experiment 01</title>
+	<link rel="stylesheet" href="Default_Style.css";
+</head>
+
+<body>
+
+	<div id="Navigation">
+		<ul>
+		  <li><a href="#Upload">Upload</a></li>
+		  <li style="float:right"><a>Login</a></li>
+		  <li style="float:right"><a>Sign Up</a></li>
+		</ul>
+	</div>
+	
+	<div id="Title">
+			<p>MEME MACHINE</p>
+	</div>
+	   
+    <div class="container">
+      <img src="I-know-i-wont-see-you--But-happy-birthday-meme-34214.jpg" class="image">
+      <div class="Image Title">
+        <div class="text">This is the Title</div>
+      </div>
+    </div>
+</body>
+</html>
